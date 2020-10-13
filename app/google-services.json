@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928971730862",
+    "firebase_url": "https://fire-base-crud-android-java.firebaseio.com",
+    "project_id": "fire-base-crud-android-java",
+    "storage_bucket": "fire-base-crud-android-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928971730862:android:080c6856a16f2b2395623f",
+        "android_client_info": {
+          "package_name": "com.atmotech.firebasecrudandroidjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928971730862-f0d08iimjjaa1f3oi4jtevl55ps64dbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxHJToVOdY9yPm0p_S4mjwejovn_jQOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928971730862-f0d08iimjjaa1f3oi4jtevl55ps64dbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
