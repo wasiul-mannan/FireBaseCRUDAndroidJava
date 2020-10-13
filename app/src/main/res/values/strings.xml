@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Fire Base CRUD Android Java</string>
+    <string name="description">Description</string>
 </resources>
